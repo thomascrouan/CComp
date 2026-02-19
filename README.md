@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/img/CComp.png" width="100%" />
+  <img src="./assets/img/ccomp.png" width="100%" />
 </p>
 
 <h1 align="center">
@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Statut-En%20cours%20de%20développement-orange" />
   <img src="https://img.shields.io/badge/Version-1.0-blue" />
-  <img src="https://img.shields.io/badge/License-Private-lightgrey" />
   <img src="https://img.shields.io/badge/Next.js-16-000000?logo=next.js" />
   <img src="https://img.shields.io/badge/Fastify-5-FF0000?logo=fastify" />
 </p>
